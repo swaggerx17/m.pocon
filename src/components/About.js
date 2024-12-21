@@ -9,7 +9,7 @@ function About() {
                     <div className="divider-custom-line"></div>
                     <div className="divider-custom-icon"><i className="fas fa-star"></i></div>
                     <div className="divider-custom-line"></div>
-                </div
+                </div>
                 {/* <!-- About Section Content--> */}
                 <div className="row">
                     <div className="col-lg-4 ms-auto"><p className="lead">Hello! I'm Marvin.</p></div>
